@@ -2,6 +2,14 @@
 
 > Enabling businesses to move faster through automation. 
 
+## Work History
+| Company | Location | Year | Description |
+| ------ | ------ | ------ | ------ |
+| Presidio | Southern California | 2018-Present | Distinguished Engineer, Collaboration and DevOps |
+| Presidio | Southern California | 2016-2018 | Sr. Collaboration Engineer |
+| Presidio | Raleigh-Durham, NC | 2014-2016 | Collaboration Engineer |
+| Infranet Technologies | Raleigh-Durham, NC | 2011-2014 | Sr Network Engineer |
+| Cloudwyze | Wilmington, NC | 2006-2011 | Systems Engineer |
 
 ## Recent Projects
 | Vertical | Technology | Description |
@@ -36,6 +44,11 @@
 
 ## Proficiencies
 - TCP/IP
+- VMWare
+- Cisco
+  - Collaboration
+  - Networking
+  - Security
 - CI/CD and Orchestration
   - Gitlab
   - Jenkins
@@ -50,13 +63,6 @@
   - Mongo
   - DynamoDB
 
-## Awards
-- Presidio Distinguished Engineer, 2019
-- Presidio Engineer of the Year, 2018
-- Cisco DevNet Creator (1 of 5)
-- Presidio Shark Tank winner 2017, 2018
-- RedHat Hackathon Orlando, 2016
-
 ## Conference Talks
 | Event | Session | Description |
 | ------ | ------ | ------ |
@@ -65,6 +71,12 @@
 | Presidio Exchange 2019 | [DEV210][CTExchange] |Hybrid Engineering: Real Projects |
 | Presidio Exchange 2016-2019 | [UC300][CTExchange] |UC Automation: Drinking From the Firehose |
 
+## Awards
+- Presidio Distinguished Engineer, 2019
+- Presidio Engineer of the Year, 2018
+- Cisco DevNet Creator (1 of 5)
+- Presidio Shark Tank winner 2017, 2018
+- RedHat Hackathon Orlando, 2016
 
 
 [CTLive]: <https://www.ciscolive.com/global/on-demand-library.html?#/session/1522770682533001cfEK>
