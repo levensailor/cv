@@ -66,7 +66,7 @@
 ## Conference Talks
 | Event | Session | Description |
 | ------ | ------ | ------ |
-| Cisco DevNet Create, 2019 | [DEVNET-1895][CTCreate] |How to Teach An Old Prog New Tricks: ChatOps for Cisco Unified Communications Manager |
+| Cisco DevNet Create, 2019 | [Workshop][CTCreate] |How to Teach An Old Prog New Tricks: ChatOps for Cisco Unified Communications Manager |
 | Cisco Live, 2018 | [DEVNET-1895][CTLive] |DevNet Panel: How Do I Grow My Career? Career Growth Through Career Pivots and Teamwork |
 | Presidio Exchange 2019 | [DEV210][CTExchange] |Hybrid Engineering: Real Projects |
 | Presidio Exchange 2016-2019 | [UC300][CTExchange] |UC Automation: Drinking From the Firehose |
