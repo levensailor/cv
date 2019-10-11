@@ -76,7 +76,7 @@
 - Presidio Engineer of the Year, 2018
 - Cisco DevNet Creator (1 of 5)
 - Presidio Shark Tank winner 2017, 2018
-- RedHat Hackathon Orlando, 2016
+- RedHat Hackathon Orlando winner, 2016
 
 
 [CTLive]: <https://www.ciscolive.com/global/on-demand-library.html?#/session/1522770682533001cfEK>
