@@ -8,7 +8,7 @@
 | Presidio | Southern California | 2018-Present | Distinguished Engineer, Collaboration and DevOps |
 | Presidio | Southern California | 2016-2018 | Sr. Collaboration Engineer |
 | Presidio | Raleigh-Durham, NC | 2014-2016 | Collaboration Engineer |
-| Infranet Technologies | Raleigh-Durham, NC | 2011-2014 | Sr Network Engineer |
+| Infranet Technologies | Raleigh-Durham, NC | 2011-2014 | Sr. Consulting Engineer |
 | Cloudwyze | Wilmington, NC | 2006-2011 | Systems Engineer |
 
 ## Recent Projects
