@@ -5,11 +5,11 @@
 ## Work History
 | Company | Location | Year | Description |
 | ------ | ------ | ------ | ------ |
-| Presidio | Southern California | 2018-Present | Distinguished Engineer, Collaboration and DevOps |
-| Presidio | Southern California | 2016-2018 | Sr. Collaboration Engineer |
-| Presidio | Raleigh-Durham, NC | 2014-2016 | Collaboration Engineer |
-| Infranet Technologies | Raleigh-Durham, NC | 2011-2014 | Sr. Consulting Engineer |
-| Cloudwyze | Wilmington, NC | 2006-2011 | Systems Engineer |
+| Presidio | Southern California | Present-2018 | Distinguished Engineer, Collaboration and DevOps |
+| Presidio | Southern California | 2018-2016 | Sr. Collaboration Engineer |
+| Presidio | Raleigh-Durham, NC | 2016-2014 | Collaboration Engineer |
+| Infranet Technologies | Raleigh-Durham, NC | 2014-2011 | Sr. Consulting Engineer |
+| Cloudwyze | Wilmington, NC | 2011-2006 | Systems Engineer |
 
 ## Recent Projects
 | Vertical | Technology | Description |
