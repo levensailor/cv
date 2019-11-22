@@ -27,8 +27,8 @@
 
 ### Law firm, Collaboration
 - Helped identify and automate workflows: 
- - fetch attorney-secretary relationships defined with active directory attributes and grant alternate host and scheduling rights in meetings software (Cisco Webex)
- - conditionally enable features as soon as end user completes training in learning management system
+  - fetch attorney-secretary relationships defined with active directory attributes and grant alternate host and scheduling rights in meetings software (Cisco Webex)
+  - conditionally enable features as soon as end user completes training in learning management system
  
 ### Large Hospital System, Unified Communications
 - Automated phone upgrade including: 
