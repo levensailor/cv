@@ -14,14 +14,30 @@
 
 ## Recent Projects
 
-| Vertical | Technology | Description |
-|:--------|:-------|:--------|
-| Public Safety | Networking | Staged large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies |
-| Large Government | Contact Center  | Lead migration of on-premise contact center to cloud including Amazon Connect, Lex, Lambda, Service Now to automate workflows and pipe statistics into an ELK stack |
-| Law firm | Unified Communications | As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests|
-| Law firm | Collaboration | Helped identify and automate workflows: 1. fetching attorney-secretary relationships defined as active directory attributes and grant alternate host and scheduling rights in WebEx and 2: conditionally enable features as end user completes training in learning management system |
-| Large Hospital System | Unified Communications | Automated phone upgrade including discovery: using netmiko to pull cdp data, reporting: using realtime information service api and beautifulsoup web scraping, and migration: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
-| State Government | Mobility | Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration. 
+### Public Safety, Networking
+- Staged large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies
+
+### Large Government, Contact Center AI
+- Lead migration of on-premise contact center to cloud including Amazon Connect, Lex, Lambda, and Service Now 
+- Automated workflows and piped statistics into an ELK stack for KPI
+
+### Law firm, Unified Communications
+- As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests
+- Added user portal that extends native portal with additional features, such as call blocking
+
+### Law firm, Collaboration
+- Helped identify and automate workflows: 
+ - fetch attorney-secretary relationships defined with active directory attributes and grant alternate host and scheduling rights in meetings software (Cisco Webex)
+ - conditionally enable features as soon as end user completes training in learning management system
+ 
+### Large Hospital System, Unified Communications
+- Automated phone upgrade including: 
+ - discovery: using netmiko to pull cdp data
+ - reporting: using realtime information service api and beautifulsoup web scraping
+ - migration: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
+
+### State Government, Mobility
+- Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration.
 
 ## Contributions
 
