@@ -32,9 +32,9 @@
  
 ### Large Hospital System, Unified Communications
 - Automated phone upgrade including: 
- - discovery: using netmiko to pull cdp data
- - reporting: using realtime information service api and beautifulsoup web scraping
- - migration: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
+  - discovery: using netmiko to pull cdp data
+  - reporting: using realtime information service api and beautifulsoup web scraping
+  - migration: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
 
 ### State Government, Mobility
 - Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration.
