@@ -1,6 +1,6 @@
 # Jeff Levensailor
 
-_Enabling business to move faster through automation, and Kaizen _
+..Enabling business to move faster through automation
 
 ## Work History
 
