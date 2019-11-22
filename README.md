@@ -69,22 +69,34 @@
 
 ## Proficiencies
 
-- TCP/IP
-- VMWare
-- Cisco
+- Linux Server
+
+- Networking
+  - Expert level knowledge in OSI model, routing protocols and TCP/IP stack
+  - Experience deploying hybrid and public cloud network models
+    - VPCs, Regions, Zones
+    - Geo DNS, Load Balancers, and Reverse Proxies
+
+- Virtualization
+  - Expert knowledge of VMware solutions
+  
+- Cisco Technologies
   - Collaboration
   - Networking
   - Security
+  
 - CI/CD and Orchestration
   - Gitlab
   - Jenkins
   - Docker
   - Kubernetes
   - Rancher
+  
 - Languages
   - Python
   - Node.js
   - Powershell
+  
 - Databases
   - Postgres/SQL
   - Mongo
