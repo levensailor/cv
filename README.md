@@ -20,7 +20,7 @@
 | Large Government | Contact Center  | Lead migration of on-premise contact center to cloud including Amazon Connect, Lex, Lambda, Service Now to automate workflows and pipe statistics into an ELK stack |
 | Law firm | Unified Communications | As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests|
 | Law firm | Collaboration | Helped identify and automate workflows: 1. fetching attorney-secretary relationships defined as active directory attributes and grant alternate host and scheduling rights in WebEx and 2: conditionally enable features as end user completes training in learning management system |
-| Large Hospital System | Unified Communications | Automated phone upgrade including **discovery**: using netmiko to pull cdp data, **reporting**: using realtime information service api and beautifulsoup web scraping, and **migration**: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
+| Large Hospital System | Unified Communications | Automated phone upgrade including discovery: using netmiko to pull cdp data, reporting: using realtime information service api and beautifulsoup web scraping, and migration: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
 | State Government | Mobility | Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration. 
 
 ## Contributions
