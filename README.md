@@ -4,7 +4,7 @@
 
 ## Work History
 
-| Company | Location | Year< | Description |
+| Company | Location | Year> | Description |
 |:--------|:-------:|:-------:|--------:|
 | Presidio | Southern California | Present-2018 | Distinguished Engineer, Collaboration and DevOps |
 | Presidio | Southern California | 2018-2016 | Sr. Collaboration Engineer |
