@@ -15,7 +15,7 @@
 ## Recent Projects
 
 | Vertical | Technology | Description |
-|:--------|:-------:|--------:|
+|:--------|:-------|:--------|
 | Public Safety | Networking | Staged large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies |
 | Large Government | Contact Center  | Lead migration of on-premise contact center to cloud including Amazon Connect, Lex, Lambda, Service Now to automate workflows and pipe statistics into an ELK stack |
 | Law firm | Unified Communications | As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests|
@@ -77,7 +77,7 @@
 ## Conference Talks
 
 | Event | Session | Description |
-|:--------|:-------:|--------:|
+|:--------|:-------:|:--------|
 | Cisco DevNet Create, 2020 | [Workshop][CTCreate] | Real World: Webex, Abstract TBD |
 | Cisco DevNet Create, 2019 | [Workshop][CTCreate] | How to Teach An Old Prog New Tricks: ChatOps for Cisco Unified Communications Manager |
 | Cisco DevNet Create, 2019 | [Workshop][CTCreate] | Contact Center AI for more Efficient Governments |
