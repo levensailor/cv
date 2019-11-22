@@ -73,7 +73,7 @@
 
 - Networking
   - Expert level knowledge in OSI model, routing protocols and TCP/IP stack
-  - Experience deploying hybrid and public cloud network models
+  - Experience deploying applications in hybrid and public cloud network models
     - VPCs, Regions, Zones
     - Geo DNS, Load Balancers, and Reverse Proxies
 
