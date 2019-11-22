@@ -90,16 +90,16 @@
   - Mongo
   - DynamoDB
 
-## Conference Talks
+## Talks
 
-| Event | Session | Description |
-|:--------|:-------:|:--------|
-| Cisco DevNet Create, 2020 | [Workshop][CTCreate] | Real World: Webex, Abstract TBD |
-| Cisco DevNet Create, 2019 | [Workshop][CTCreate] | How to Teach An Old Prog New Tricks: ChatOps for Cisco Unified Communications Manager |
-| Cisco DevNet Create, 2019 | [Workshop][CTCreate] | Contact Center AI for more Efficient Governments |
-| Cisco Live, 2018 | [DEVNET-1895][CTLive] | DevNet Panel: How Do I Grow My Career? Career Growth Through Career Pivots and Teamwork |
-| Presidio Exchange 2019 | [DEV210][CTExchange] | Hybrid Engineering: Real Projects |
-| Presidio Exchange 2016-2019 | [UC300][CTExchange] | UC Automation: Drinking From the Firehose |
+| Event | Description |
+|:--------|:--------|
+| Cisco DevNet Create, 2020 | Real World: Webex, Abstract TBD |
+| Cisco DevNet Create, 2019 | How to Teach An Old Prog New Tricks: ChatOps for Cisco Unified Communications Manager |
+| Cisco DevNet Create, 2019 | Contact Center AI for more Efficient Governments |
+| Cisco Live, 2018 | DevNet Panel: How Do I Grow My Career? Career Growth Through Career Pivots and Teamwork |
+| Presidio Exchange 2019 | Hybrid Engineering: Real Projects |
+| Presidio Exchange 2016-2019 | UC Automation: Drinking From the Firehose |
 
 ## Awards
 
