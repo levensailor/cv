@@ -3,6 +3,7 @@
 > Enabling businesses to move faster through automation. 
 
 ## Work History
+
 | Company | Location | Year | Description |
 | ------ | ------ | ------ | ------ |
 | Presidio | Southern California | Present-2018 | Distinguished Engineer, Collaboration and DevOps |
