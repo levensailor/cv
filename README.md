@@ -1,128 +1,59 @@
-# Jeff Levensailor
+# Resume template
 
-..Enabling business to move faster through automation
+*A simple Jekyll + GitHub Pages powered resume template.*
 
-## Work History
+![img](images/screenshot.png)
 
-| Company | Location | Year> | Description |
-|:--------|:-------:|:-------:|--------:|
-| Presidio | Southern California | Present-2018 | Distinguished Engineer |
-| Presidio | Southern California | 2018-2016 | Sr. Collaboration Engineer |
-| Presidio | Raleigh-Durham, NC | 2016-2014 | Collaboration Engineer |
-| Infranet Technologies | Raleigh-Durham, NC | 2014-2011 | Sr. Consulting Engineer |
-| Cloudwyze | Wilmington, NC | 2011-2006 | Systems Engineer |
+## Docs
 
-## Recent Projects
+### Running locally
 
-### Public Safety, Networking
-- Staged large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies
+To test locally, run the following in your terminal:
 
-### Large Government, Contact Center AI
-- Lead migration of on-premise contact center to cloud including Amazon Connect, Lex, Lambda, and Service Now 
-- Automated workflows and piped statistics into an ELK stack for KPI
+1. Clone repo locally
+1. `bundle install`
+2. `bundle exec jekyll serve`
+3. Open your browser to `localhost:4000`
 
-### Law firm, Unified Communications
-- As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests
-- Added user portal that extends native portal with additional features, such as call blocking
+### Customizing
 
-### Law firm, Collaboration
-- Helped identify and automate workflows: 
-  - fetch attorney-secretary relationships defined with active directory attributes and grant alternate host and scheduling rights in meetings software (Cisco Webex)
-  - conditionally enable features as soon as end user completes training in learning management system
- 
-### Large Hospital System, Unified Communications
-- Automated phone upgrade including: 
-  - discovery: using netmiko to pull cdp data
-  - reporting: using realtime information service api and beautifulsoup web scraping
-  - migration: using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
+First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
-### State Government, Mobility
-- Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration.
+#### Options/configuration
 
-## Contributions
+Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
 
-- Cisco Certified DevNet Expert SME, Collaboration APIs
-- Cisco Certified DevNet Professional Exam Author
-  - Developing Applications for Cisco Webex and Webex Devices (300-920 DEVWBX)
-  - Automating Cisco Collaboration Solutions (300-835 CLAUTO)
-- PyPi
-  - ciscoaxl (Cisco CUCM AXL Library. Simple to use.)
-  - ciscoris (Cisco CUCM RIS Library. Simple to use.)
-  - phonescrape (Downloads and parses information from Cisco IP Phones)
-- NPM
-  - node-cisco-axl (Node.js port of ciscoaxl sdk)
-- Cisco Code Exchange (Various)
+[...write these out...]
 
-## Roles and Responsibilities
+#### Editing content
 
-- Presidio DevOps Lab Admin
-- Presidio South Lab Admin
+Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
 
-## Credentials
+### Publishing to GitHub Pages for free
 
-- BS Management Information Systems, University of Massachusetts
-- Active TS Clearance
-- Amazon Certified Developer Associate
-- Cisco Certified Network Professional Routing and Switching
-- Cisco Certified Network Professional Collaboration
-- Certified Cisco DevNet Class Proctor
+[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
 
-## Proficiencies
+### Configuring with your own domain name
 
-- Linux Server
+To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
 
-- Networking
-  - Expert level knowledge in OSI model, routing protocols and TCP/IP stack
-  - Experience deploying applications in hybrid and public cloud network models
-    - VPCs, Regions, Zones
-    - Geo DNS, Load Balancers, and Reverse Proxies
+### Themes
 
-- Virtualization
-  - Expert knowledge of VMware solutions
-  
-- Cisco Technologies
-  - Collaboration
-  - Networking
-  - Security
-  
-- CI/CD and Orchestration
-  - Gitlab
-  - Jenkins
-  - Docker
-  - Kubernetes
-  - Rancher
-  
-- Languages
-  - Python
-  - Node.js
-  - Powershell
-  
-- Databases
-  - Postgres/SQL
-  - Mongo
-  - DynamoDB
+Right now resume-template only has one theme. More are coming :soon: though. :heart:
 
-## Talks
+## Roadmap
 
-| Event | Description |
-|:--------|:--------|
-| Cisco DevNet Create, 2020 | Real World: Webex, Abstract TBD |
-| Cisco DevNet Create, 2019 | How to Teach An Old Prog New Tricks: ChatOps for Cisco Unified Communications Manager |
-| Cisco DevNet Create, 2019 | Contact Center AI for more Efficient Governments |
-| Cisco Live, 2018 | DevNet Panel: How Do I Grow My Career? Career Growth Through Career Pivots and Teamwork |
-| Presidio Exchange 2019 | Hybrid Engineering: Real Projects |
-| Presidio Exchange 2016-2019 | UC Automation: Drinking From the Firehose |
+A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
 
-## Awards
+## Contributing
 
-- Presidio Distinguished Engineer, 2019
-- Presidio Engineer of the Year, 2018
-- Cisco DevNet Creator (1 of 5)
-- Cisco Baby Shark Hackathon winner 2019
-- Presidio Shark Tank winner 2017, 2018
-- RedHat Hackathon Orlando winner, 2016
+If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
 
+1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
+2. Fork the project, make changes, and submit a pull request
 
-[CTLive]: <https://www.ciscolive.com/global/on-demand-library.html?#/session/1522770682533001cfEK>
-[CTCreate]: <https://developer.cisco.com/devnetcreate/2019/agenda>
-[CTExchange]: <https://presidio.com>
+## License
+
+The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
+
+Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
