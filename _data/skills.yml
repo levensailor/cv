@@ -1,18 +1,23 @@
-- skill: Python
-- skill: Node.js
-- skill: Powershell
-- skill: Big 3 Public Cloud (GCP, AWS, Azure)
+- skill: Software Engineering
+  description: Well versed in high level scripting languages such as Python and Node.js and interfacing with APIs
 
+- skill: Databases
+  description: SQL, Mongo and DynamoDB environments, best practices, and query languages
 
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: CI/CD
+  description: Familiar with pipelines for pushing, testing and deploying code in numerous environments
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Orchestrators
+  description: Rancher and Docker Swarm deployment tools
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Microservices
+  description: AWS Lambda, Dynamo and API Gateway stack
+
+- skill: Design
+  description: Excellent at creating beautiful hardware and software diagrams to better communicate
+
+- skill: Project Management
+  description: Advocate of Kanban boards, and contributor to Wekan project
+
+- skill: Leadership
+  description: Public speaking, mentoring, and making personal connections for better outcomes

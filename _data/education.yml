@@ -4,12 +4,15 @@
   year: 2010
   awards:
     - award: 3.5 GPA
-    - award: Researched Applications of Wireless Mesh
+    - award: Computer Networks
+    - award: Unix
   summary: 
 
 - degree: Computer Science
   uni: University of North Carolina at Wilmington
   year: 2001-2006
   awards:
-    - award: Studied Computer Animation
+    - award: Object Oriented Programming (Java)
+    - award: Data Structures
+    - award: Computer Animation
   summary:
