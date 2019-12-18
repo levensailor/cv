@@ -1,10 +1,32 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Engineer of the Year
+  organization: Presidio
+  year: 2019
+  summary: Awarded to the Engineer considered most valuable to the business
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
+- award: Devnet Creator
+  organization: Cisco
   year: 2004
+  summary: Awarded to 5 notable innovators each year who contribute to the Cisco Developer community, learn new skills and enable their organizations to scale out.
+
+  - award: Babyshark (Hackathon)
+  organization: Cisco
+  year: 2019
+  summary: 1st place application that allows Meraki firewalls to subscribe to L3 and L7 dynamic blacklists from sources such as SANS, Cymru, Spamhaus and Dshield
+
+  - award: Shark Tank
+  organization: Presidio
+  year: 2018
+  summary: 2nd place application allows workflos
+  <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+
+  - award: Shark Tank
+  organization: Presidio
+  year: 2017
+  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+
+  - award: Hackathon Orlando
+  organization: Redhat
+  year: 2016
   summary: Voted Most Likely To Succeed by a panel of my high school peers.
