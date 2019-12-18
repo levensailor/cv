@@ -1,14 +1,20 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: Amazon
+  role: AWS Certified Developer Associate
+  year: 2018
+  #url: http://campuspress.yale.edu/amnesty/
+  summary: Certified on AWS DevOps
+
 - organization: Cisco
   role: CCDP, CCNP R&S + Collaboration
   year: 2010
   #url: https://www.peta.org/
   summary: Professional Certification of Cisco Networking
 
-- organization: Amazon
-  role: AWS Certified Developer Associate
+- organization: US Govt
+  role: Active TS Clearance
   year: 2018
   #url: http://campuspress.yale.edu/amnesty/
-  summary: Certified on AWS DevOps
+  summary: 
