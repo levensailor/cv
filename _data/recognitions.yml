@@ -14,20 +14,16 @@
   year: 2017
   summary: Integrity - Forward Thinking - Execution Excellence - Teamwork
 
-- award: 1st Place, Baby Shark Hackathon
+- award: Presidio Exchange Hackathon
   organization: Cisco
   year: 2019
-  summary: Created an application that allows Meraki firewalls to subscribe to L3 and L7 dynamic blacklists from sources such as SANS, Cymru, Spamhaus and Dshield
+  summary: 1st Place. Created an application that allows Meraki firewalls to subscribe to L3 and L7 dynamic blacklists from sources such as SANS, Cymru, Spamhaus and Dshield
 
-- award: 2nd Place, Shark Tank
+- award: Shark Tank Innovations
   organization: Presidio
-  year: 2018
-  summary: 2nd place application allows workflos <ul class="resume-item-list"><li>A project you are proud of<ul class="resume-item-list"><li>more here</li></ul></li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  year: 2017, 2018
+  summary: 2nd Place. <ul class="resume-item-list"><li>A project you are proud of<ul class="resume-item-list"><li>more here</li></ul></li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>3rd Place
 
-- award: 3rd Place, Shark Tank
-  organization: Presidio
-  year: 2017
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
 
 - award: 1st Place, Hackathon Orlando
   organization: Redhat
