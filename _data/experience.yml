@@ -3,23 +3,22 @@
 - company: Presidio
   position: Distinguished Engineer
   duration: May, 2019 &mdash; Present
-  summary: here <ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: Advise CTO on industry trends, areas of investment, and overall technical direction of company
 
 # Director of Digital Stratgy
 - company: Presidio
-  position: Sr. Collaboration Engineer
-  duration:  Jun, 2014 &mdash; May, 2019
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+  position: Sr. Consulting Engineer
+  duration: Jun, 2014 &mdash; Present
+  summary: Lead engineering of many large projects <ul class="resume-item-list"><li>Unified Communications</li><li>Public and Hybrid Cloud Migrations</li><li>Contact Center and Bots</li><li>IoT</li></ul>
 
 # Communications Coordinator
 - company: Infranet Technologies
   position: Sr. Network Engineer
-  duration:   May, 2011  &mdash; Jun, 2014
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: May, 2011  &mdash; Jun, 2014
+  summary: Designed, Sold, Delivered and Supported Cisco UC, Security, Wireless, LAN/WAN and Compute including VMware and Microsoft
 
 # Communications Coordinator
 - company: Cloudwyze
   position: Systems Administrator
-  duration:   Jun, 2006 &mdash; May, 2011
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: Jun, 2006 &mdash; May, 2011
+  summary: Administered LAMP servers with cPanel, Meraki and Broadsoft platforms, DaaS, and Microsoft Server
