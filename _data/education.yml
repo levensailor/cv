@@ -3,11 +3,15 @@
   uni: University of Massachusetts
   year: 2010
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: 3.5 GPA
+  summary: Research on Applications of Wireless Mesh
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: 
+  uni: University of North Carolina at Wilmington
+  year: 2001-2006
+  awards:
+    - award: 
+  summary:
+    - blah
+    - blah2
+    - blah3
