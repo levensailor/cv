@@ -3,24 +3,30 @@
 
 - project: Public Safety
   role: Networking / IoT
+  duration: 2019 &mdash; Present
   description: Staged large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies
 
 - project: Large Government
+  duration: 2019
   role: Contact Center, NLP, Bots
   description: Lead migration of on-premise contact center to cloud including Amazon Connect, Lex, Lambda, and Service Now. Automated workflows and piped statistics into an ELK stack for KPI
 
 - project: Law firm
+  duration: 2019
   role: Unified Communications
   description: As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests. Added user portal that extends native portal with additional features, such as call blocking
 
+- project: State Government
+  duration: 2019
+  role: Mobility
+  description: Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration.
+
 - project: Law firm
+  duration: 2018-2019
   role: Collaboration
   description: Helped identify and automate workflows, fetch attorney-secretary relationships defined with active directory attributes and grant alternate host and scheduling rights in meetings software (Cisco Webex) conditionally enable features as soon as end user completes training in learning management system
 
 - project: Large Hospital System
+  duration: 2015-2018
   role: Unified Communications
   description: Automated phone upgrade including discovery - using netmiko to pull cdp data, reporting - using realtime information service api and beautifulsoup web scraping, migration - using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
-
-- project: State Government
-  role: Mobility
-  description: Built progressive web app with BLE tracking for court system visitors, jurors, and state employees with Amazon SNS subscriptions. Future effort for mapwize integration.
