@@ -1,11 +1,20 @@
-- name: ciscoaxl
+- name: DevNet Expert
+  description: Worked closely with Certification Product Manager to build blueprint
+
+- name: DEVWBX
+  description: Authored questions for Cisco Certified DevNet Specialist - Webex
+
+- name: CLAUTO
+  description: Authored questions for Cisco Certified DevNet Specialist - Collaboration Automation and Programmability
+
+- name: ciscoaxl (PyPi)
   description: Python SDK for Cisco Unified Communications Manager Administrative XML
 
-- name: ciscoris
+- name: ciscoris (PyPi)
   description: Python SDK for Cisco Unified Communications Manager Real-Time Information Service
 
-- name: py-cisco-remote
+- name: py-cisco-remote (PyPi)
   description: Computer Telephony Integration Library with both Interactive and Macro mode
 
-- name: phonescrape
+- name: phonescrape (PyPi)
   description: Creates structured data from Cisco IP Phones web interface
