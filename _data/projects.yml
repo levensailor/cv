@@ -9,7 +9,7 @@
 - project: Public Safety
   role: Networking / IoT
   duration: 2019 &mdash; Present
-  description: Staging of large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies
+  description: Staging of large quantity of cloud managed Cradlepoint routers using python and rest apis including routing, vpn tunneling, nat rules, firewall and policies for private LTE network
 
 - project: State Government
   duration: 2019
