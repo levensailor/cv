@@ -1,0 +1,11 @@
+- name: ciscoaxl
+  description: Python SDK for Cisco Unified Communications Manager Administrative XML
+
+- name: ciscoris
+  description: Python SDK for Cisco Unified Communications Manager Real-Time Information Service
+
+- name: py-cisco-remote
+  description: Computer Telephony Integration Library with both Interactive and Macro mode
+
+- name: phonescrape
+  description: Creates structured data from Cisco IP Phones web interface
