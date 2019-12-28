@@ -1,3 +1,18 @@
+- name: Cisco Live Panel
+  description: DEVNET-1895, How Do I Grow My Career? Career Growth through Pivots and Teamwork
+
+- name: DevNet Create Workshop
+  description: How to teach an old prog new tricks - ChatOps for the Enterprise
+
+- name: DevNet Create Presenter
+  description: Contact Center AI for More Efficient Governments
+
+- name: Presidio Exchange
+  description: Teach a "UC Automation" class for last 4 years.
+
+- name: Presidio Exchange
+  description: Hybrid Engineering, what does the new network engineer look like?
+
 - name: DevNet Expert
   description: Worked closely with Certification Product Manager to build blueprint
 
