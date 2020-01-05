@@ -1,20 +1,20 @@
-- name: Cisco Live Panel
+- name: Cisco Live Panel, 2018
   description: DEVNET-1895, How Do I Grow My Career? Career Growth through Pivots and Teamwork
 
-- name: DevNet Create Workshop
+- name: DevNet Create Workshop, 2019
   description: How to teach an old prog new tricks - ChatOps for the Enterprise
 
-- name: DevNet Create Presenter
+- name: DevNet Create Presenter, 2019
   description: Contact Center AI for More Efficient Governments
 
-- name: Presidio Exchange
-  description: Teach a "UC Automation" class for last 4 years.
+- name: Presidio Exchange, 2016-2019
+  description: DevOps planning committee, teach a top rated "UC Automation" class every year
 
-- name: Presidio Exchange
-  description: Hybrid Engineering, what does the new network engineer look like?
+- name: Presidio Exchange Panel, 2019
+  description: Hybrid Engineering, what does the next generation network engineer look like?
 
-- name: DevNet Expert
-  description: Worked closely with Certification Product Manager to build blueprint
+- name: DevNet Expert Certifications
+  description: Worked closely with Cisco Certification Product Manager to build blueprint for new Lab Exam
 
 - name: DEVWBX
   description: Authored questions for Cisco Certified DevNet Specialist - Webex

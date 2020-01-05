@@ -32,6 +32,11 @@
   description: As a part of a VoIP migration, I worked with the customer to identify common workloads and created a natural language bot that leverages the Cisco AXL and SXML apis to field these requests. Added user portal that extends native portal with additional features, such as call blocking
 
 - project: Large Hospital System
-  duration: 2014-2017
+  duration: 2016-2017
   role: Unified Communications
-  description: Automated phone upgrade including discovery - using netmiko to pull cdp data, reporting - using realtime information service api and beautifulsoup web scraping, migration - using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
+  description: Automated phone upgrade including discovery using netmiko to pull cdp data, reporting using realtime information service api and beautifulsoup web scraping, migration using netmiko to swap vlan, axl to configure phone in new cluster and cti (if required) to reset network and security settings
+
+- project: State Judicial
+  duration: 2015
+  role: Unified Communications
+  description: Upgraded 100 Call Manager Express sites including IOS and phones. Created application to convert configuration from SCCP to SIP using RegEx and  
