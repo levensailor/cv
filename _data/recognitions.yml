@@ -14,17 +14,22 @@
   year: 2017
   summary: Integrity - Forward Thinking - Execution Excellence - Teamwork
 
-- award: Presidio Exchange Hackathon
+- award: Presidio Exchange Hackathon winner
   organization: Cisco
   year: 2019
-  summary: 1st Place - Created an application that allows Meraki firewalls to subscribe to L3 and L7 dynamic blacklists from sources such as SANS, Cymru, Spamhaus and Dshield
+  summary: Created an application that allows Meraki firewalls to subscribe to L3 and L7 dynamic blacklists from sources such as SANS, Cymru, Spamhaus and Dshield
 
-- award: Shark Tank Innovations
+- award: Presidio Innovations (Sharktank) winner
   organization: Presidio
-  year: 2017, 2018
-  summary: 2nd Place - UC ChatOps for the Enterprise. 3rd Place - Test Plan Automation Platform
+  year: 2018
+  summary: UC Chat Ops for the enterprise
 
-- award: Hackathon Orlando
+- award: Presidio Innovations (Sharktank) winner
+  organization: Presidio
+  year: 2017
+  summary: Test Plan automation platform
+
+- award: Hackathon Orlando winner
   organization: Redhat
   year: 2016
-  summary: 1st Place - Created Smartphone app for Non Emergency Medical Transportation 
+  summary: Created Smartphone app for Non Emergency Medical Transportation 
