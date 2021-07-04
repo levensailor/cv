@@ -7,8 +7,17 @@
 - skill: CI/CD
   description: Familiar with pipelines for pushing, testing and deploying code in numerous environments
 
+- skill: IaC
+  description: Infrastructure as Code templates, both terraform and cloudformation
+  
+- skill: Unified Communications
+  description: Expert in Cisco UC programmability, Zoom APIs, and Microsoft Graph API
+  
+- skill: Contact Center
+  description: Expert in Finesse gadgets, Amazon Connect, Bots using Dialogflow/Lex
+
 - skill: Orchestrators
-  description: Rancher and Docker Swarm deployment tools
+  description: Rancher and K8s, Amazon ECS/EKS
 
 - skill: Microservices
   description: AWS Lambda, Dynamo and API Gateway stack
