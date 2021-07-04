@@ -1,6 +1,22 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: Healthcare
+  role: Development
+  duration: 2021
+  description: Nortel to Cisco UC migration automation using data correlations and ServiceNow workflows into custom Cisco AXL application
+
+- project: Publishing 
+  role: Development
+  duration: 2021
+  description: Created bulk event creation app for Webex and Zoom with integration to Box, O365 and Brightspace
+  
+  
+- project: State Government
+  role: Development / Collaboration
+  duration: 2020
+  description: Created court room live streaming solution using AWS and integration to customers public website
+
 - project: Financial
   role: Collaboration
   duration: 2019 &mdash; Present
