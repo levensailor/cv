@@ -7,10 +7,16 @@
   summary: Certified on AWS DevOps
 
 - organization: Cisco
-  role: CCDP, CCNP R&S + Collaboration, DevNet Professional
+  role: CCDP, CCNP R&S + Collaboration, CMNA, DevNet Professional
   year: 2010
   summary: Professional Certifications on Cisco Design, Networking and Collaboration
 
+- organization: Microsoft
+  role: MCSE
+  
+- organization: CompTIA
+  role: Security+
+  
 - organization: US Govt
   role: Active TS Clearance
   year: 2018
