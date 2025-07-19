@@ -1,3 +1,9 @@
+- name: Redhat Summit, 2025
+  description: Preparing for a Successful Migration to Openshift Virtualization
+
+- name: Redhat Summit, 2025
+  description: Automating Cisco Meraki Retail Deployments using Ansible
+
 - name: Cisco DevNet Create Presenter, 2021
   description: Webex Compliance data as a source for AI/ML Applications
   
